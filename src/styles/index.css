@@ -9,3 +9,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+div{
+    /* border: 10px solid red; */
+}
+
+.bgred{
+    background-color: red;
+}
